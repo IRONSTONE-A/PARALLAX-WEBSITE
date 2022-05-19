@@ -33,13 +33,7 @@ div {
     display: block;
 }
 
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
+
 
 b {
     font-weight: bold;
@@ -48,19 +42,6 @@ b {
     width: 30%;
     margin: 1rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .background-container--image1, .background-container--image2, .background-container--image3, .background-container--image4 {
     background-position: center;
@@ -74,24 +55,12 @@ b {
     justify-content: center;
 }
 
-
-
-
-
-
-
-
 .heading-container {
     text-align: center;
     font-size: 3rem;
     letter-spacing: 0.5rem;
     color: white;
 }
-
-
-
-
-
 
 .heading-container__heading--big {
     background-color: black;
@@ -123,16 +92,13 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
 section {
     display: block;
@@ -150,20 +116,6 @@ section {
     background-color: #282e34;
     color: #ddd;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 760px)
 .heading-container {
     font-size: 2rem;
