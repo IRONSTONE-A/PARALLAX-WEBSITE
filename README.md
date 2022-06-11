@@ -1,3 +1,5 @@
 PARALLAX PROJE 
 
-![gif](https://github.com/IRONSTONE-A/PARALLAX-WEBSITE/blob/master/clarusway_parallax.gif)
+[Please click here](https://ironstone-a.github.io/PARALLAX-WEBSITE/)
+
+![](clarusway_parallax.gif)
